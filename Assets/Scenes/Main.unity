@@ -511,6 +511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Tap: 0
+  speed: 25
 --- !u!1 &502446167
 GameObject:
   m_ObjectHideFlags: 0
