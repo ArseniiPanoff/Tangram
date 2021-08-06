@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\TangramScript.cs" />
     <Compile Include="Assets\Scripts\ExitButton.cs" />
     <Compile Include="Assets\Scripts\CameraScript.cs" />
+    <Compile Include="Assets\Saver.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
